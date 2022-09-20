@@ -14,10 +14,7 @@
     "build:module": "tsc -p tsconfig.module.json",
     "docs": "typedoc src/index.ts",
     "docs:json": "typedoc --json docs/spec.json --excludeExternals src/index.ts",
-    "test": "jest",
-    "allure:generate": "rm -rf allure-report && node_modules/allure-commandline/bin/allure generate",
-    "allure:serve": "node_modules/allure-commandline/bin/allure serve",
-    "test:report": "npm run allure:generate && npm run allure:serve"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
