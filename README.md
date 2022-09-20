@@ -27,8 +27,8 @@ $ cd wesfunction
 # Install dependencies
 $ npm install
 
-# Run the project
-$ npm run build
+# Run the project test
+$ npm run test
 
 # The server will initialize in the <http://localhost:3000>
 ```
