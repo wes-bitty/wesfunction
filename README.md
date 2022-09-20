@@ -1,26 +1,4 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="@wesbitty&#x2F;wesfunction" />
-
-  &#xa0;
-
-  <!-- <a href="https://wesfunction.netlify.app">Demo</a> -->
-
-</div>
-
 <h1 align="left">Wesfunction</h1>
-
-
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  @wesbitty/wesfunction 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
-<br>
-
-## :dart: About ##
 
 Javascript Client library Wesbitty Functions.
 
@@ -47,10 +25,10 @@ $ git clone https://github.com/wes-bitty/wesfunction.git
 $ cd wesfunction
 
 # Install dependencies
-$ yarn
+$ npm install
 
 # Run the project
-$ yarn start
+$ npm run build
 
 # The server will initialize in the <http://localhost:3000>
 ```
