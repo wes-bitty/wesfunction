@@ -1,7 +1,7 @@
 {
   "name": "@wesbitty/wesfunction",
   "version": "0.0.0",
-  "description": "JS Client library to interact with Wesbitty.",
+  "description": "Javascript Client library @wesbitty",
   "main": "dist/main/index.js",
   "module": "dist/module/index.js",
   "types": "dist/module/index.d.ts",
