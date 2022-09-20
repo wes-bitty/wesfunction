@@ -59,8 +59,5 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "directories": {
-    "test": "test"
   }
 }
